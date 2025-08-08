@@ -35,7 +35,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/deepsbajwa/pocket-tanks-java-final.git
+git clone copy-our-project-url
 cd pocket-tanks-java-final
 Set Up Database
 
